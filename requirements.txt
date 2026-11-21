@@ -3,3 +3,7 @@ uvicorn
 python-multipart
 pymupdf
 python-docx
+pyngrok
+gradio
+requests
+google-genai
